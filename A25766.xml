@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings at the Sessions of Oyer and Terminer ... the 10 of October, 1683, and ended the 13th of the same instant where divers persons were tryed for high treason, murder, felony, burglary, and other misdemeanors : with the names of the persons condemned, burnt in the hand, to be whipt and transported.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25766</idno>
+            <idno type="STC">Wing A362</idno>
+            <idno type="STC">ESTC R14813</idno>
+            <idno type="EEBO-CITATION">11922395</idno>
+            <idno type="OCLC">ocm 11922395</idno>
+            <idno type="VID">50984</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50984)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 47:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings at the Sessions of Oyer and Terminer ... the 10 of October, 1683, and ended the 13th of the same instant where divers persons were tryed for high treason, murder, felony, burglary, and other misdemeanors : with the names of the persons condemned, burnt in the hand, to be whipt and transported.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+               <term>Criminal courts --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:50984:1" rendition="simple:additions"/>
+            <head>
+               <hi>An Account of the PROCEEDINGS AT THE SESSIONS</hi> Of <hi>Oyer</hi> and <hi>Terminer,</hi> and <hi>Gaol-Delivery</hi> of <hi>Newgate;</hi> Which Began at the <hi>Seſſions-Houſe</hi> in the <hi>OLD-BAYLY,</hi> for the City of <hi>London</hi> and County of <hi>Middleſex,</hi> the <hi>10.</hi> of <hi>Octo<g ref="char:EOLhyphen"/>ber 1683.</hi> and ended the 13th of the ſame Inſtant. Where di<g ref="char:EOLhyphen"/>vers perſons were tryed for <hi>HIGH-TREASON, Murder, Felony, Burglary,</hi> and other Miſdemeanors. With the Names of the Perſons Condemned, burnt in the Hand, to be Whipt and Tranſported.</head>
+            <p>
+               <hi>JOhn Derry</hi> was Tryed for Killing <hi>Thomas Robinſon,</hi> in the Pariſh of St. <hi>Bartholomew the Great;</hi> which upon Evidence appeared thus: the Priſoner and Deceaſed working together (being Printers by Trade) upon ſome Words paſſing between them, the Priſoner ſtruck the De<g ref="char:EOLhyphen"/>ceaſed with the handle of a <hi>Printers</hi> Ball, drawing Blood by the ſtroke; which happening on the 27. of <hi>June</hi> laſt, he lived till the 23. of <hi>Auguſt,</hi> and then dyed; but no former Malice appearing, and the Doctor and Chyrur<g ref="char:EOLhyphen"/>gion giving Teſtimony, that they verily believed the Deceaſed died a natural Death, not being any ways occaſioned by that ſtroke, the Priſoner was ac<g ref="char:EOLhyphen"/>quitted.</p>
+            <p>
+               <hi>John Knight, John Paybody,</hi> and <hi>Thomas Edmunds,</hi> were Tryed upon two Indictments; for ſtealing two Horſes, one from Sir <hi>Adam Brown,</hi> and the other from one Mr. <hi>Tapin</hi> near <hi>Darkin</hi> in <hi>Surry;</hi> which being plainly proved, they were all found guilty of the Felony.</p>
+            <p>
+               <hi>Hugh Jones, Sidny Vandelo, Edward Williams, Charles Dod,</hi> and <hi>Charles Roberts,</hi> were Tryed for Robbing <hi>Richard Littleton</hi> of a Caſtor, and four Shillings in Money, taking it from his Perſon in the Pariſh of St. <hi>Michael Cornhill,</hi> on the 27. of <hi>September</hi> the laſt, which being proved againſt them, and that <hi>Sidney Vandelo,</hi> one of them, had run the Proſecutor into the Body, and that they were notorious Pick-pockets, they were found Guilty of the Felony and Robery.</p>
+            <p>
+               <hi>Elizahetb Hare</hi> was Tryed for Clipping divers Half-Crowns, Shillings, and Six-pen<g ref="char:EOLhyphen"/>ces, of the Lawful and Currant Coyn of this Kingdom. Upon Tryal, the Circum<g ref="char:EOLhyphen"/>ſtances were thus: The Priſoner having a Maid-Servant living with her ſome time ſince the ſaid Servant ſwore, That ſhe ſaw her Miſtriſs Clipping divers times in her Cloſet, as alſo found Clippings there; with Files, Shears, and <hi>Aqua Fortis:</hi> And further, That ſhe had taken a Bond on her, to conceal her Secrets. It was alſo alledged, That ſhe had formerly Clipped, and had been Convicted of it: And that divers Inſtruments, and ſome Symptoms of Clippings, were upon ſearch found in her Houſe. Againſt which ſhe pleaded, That it was done in Malice, <hi>&amp;c.</hi> But in Fine, the Jury having received the charge from the Court, they found her Guilty of the High-Treaſon.</p>
+            <p>
+               <hi>Jonathan Parſons, Joſeph Roberts,</hi> and <hi>Robert Thomas,</hi> were tryed for ſtealing a Gelding, valued at 10 pounds, from one <hi>John Newman</hi> of <hi>Hamp<g ref="char:EOLhyphen"/>ſtead,</hi> on the 26th. of <hi>Auguſt</hi> laſt; which Horſe was ſold to another perſon, by <hi>Joſeph Roberts;</hi> but upon refuſing to toll him, the Horſe and Money were ſtopped, and the true owner found; but it appearing that <hi>Roberts</hi> and <hi>Thomas</hi> had no hand in ſtealing the Horſe, or that they knew he was ſtole, but ignorantly upon the word of <hi>Parſons,</hi> that he came honeſtly by him, received him into their cuſtody, they were acquitted, and <hi>Parſons</hi> only found guilty of the Felony; but being tryed on another Indictment, for ſtealing divers ſilver Tankards, from Mr. <hi>Page</hi> of St. <hi>Bartholomew the Great,</hi> and there being no home proof againſt him, he was acquitted.</p>
+            <pb n="2" facs="tcp:50984:2"/>
+            <p> 
+               <hi>Robert Barrier,</hi> was indicted, arraigned and tryed, for robbing the houſe of <hi>Nicholas Ranſden</hi> of <hi>Chattam,</hi> on the fourteenth of <hi>September</hi> laſt, and taking from thence a ſilver Tankard, a large ſilver Cup, and three Dram<g ref="char:EOLhyphen"/>cups, as alſo 50 ſhillings in money; with which, according to the Evi<g ref="char:EOLhyphen"/>dence, he was ſeized as he was coming for <hi>London</hi> by water, his Plea was, that they were givin him in lieu of a Legacy of 15 pounds; but that not appearing, and he having been formerly found tardy, the Jury brought him in guilty.</p>
+            <p>
+               <hi>John Thomſon</hi> was tryed for ſtealing a long laced Scarf, valued at 3 pounds, from <hi>Mary Haburley</hi> in the <hi>Royal-Exchange,</hi> on the 18 of <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> laſt; againſt him it was proved that he took the Scarf, and he being purſued, dropped it; but he pleaded that he was far from the <hi>Exchange</hi> when he was taken, and that it was impoſſible for him to get ſo far off in ſo ſhort a time; but the proof being plain, he was found guilty of the Felony.</p>
+            <p>
+               <hi>Thomas Atkins</hi> was tryed for ſtealing a Tankard from <hi>Elizabeth Green</hi> in <hi>Foſter-Lane,</hi> on the tenth of <hi>September</hi> laſt: the circumſtances as upon Evidence they appeared were theſe; the Priſoner watching his opportunity, when the Proſecutor had turned her back, ſnatched the Tankard from off the Counter, and fled, but being cloſely purſued he dropped it, yet he alledged in his defence, that he had it not, but the Pur<g ref="char:EOLhyphen"/>ſuers miſtook the man, and laying hold of him, permitted the Felon to eſcape; but thoſe Allegations being confuted by other Evidence, who ſwore poſitively to the Stealing and Party, he was found guilty of the Felony.</p>
+            <p>
+               <hi>John Smith</hi> and <hi>William Smith</hi> were tryed for robbing the Houſe of the Right Honourable the Earl of <hi>Linſy</hi> at <hi>Chelſy,</hi> of Laced Curtains, Mantles, Silks, and divers other Goods, to the value of 50 pounds, which Goods, ac<g ref="char:EOLhyphen"/>cording to what in Court was ſworn by the Evidence, were found in the cuſtody of the Priſoners at a Bakers houſe near <hi>Newgate,</hi> to which the for<g ref="char:EOLhyphen"/>mer <hi>Smith</hi> pleaded that he had been tryed and burnt in the hand the laſt Seſſions for the ſaid Robbery; but it appearing, that although he was burnt in the hand for ſtealing a Parliament Robe from the ſaid Earl, yet this Robbery was committed ſince, ſo that his allegation rather augmented than extenuated the Crime, and the latter not being able to give any account of his Life and Converſation, they were both found guilty.</p>
+            <p>
+               <hi>John Piſer</hi> was tryed for killing <hi>Suſan Roberts,</hi> by running over her with the hinder wheel of his Coach at the turning of <hi>Ruſſel Street,</hi> on the tenth of <hi>September;</hi> but it appearing that he did it not wilful, for that he gave the Children warning to ſtand up, and a Coach croſſing him, that he could not keep further from the wall, and that as ſoon as he heard the peo<g ref="char:EOLhyphen"/>ple cry out, he alighted, and run back his Coach; upon directions received from the Court, he was found guilty of Man-ſlaughter only.</p>
+            <p>
+               <hi>William Williams</hi> was tryed upon three Indictments; firſt, for raviſhing <hi>Sibila May,</hi> a woman of about eighty years old; ſecondly, for robbing her, in taking a Peing from her perſon; and thirdly, for robbing her houſe: up<g ref="char:EOLhyphen"/>on the two latter Indictments, the proof being plain, he was found guilty, but upon the former acquitted, the party raviſhed not being able to ſay
+<pb n="2" facs="tcp:50984:3"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:50984:4"/>he was the man, by reaſon as ſhe alledged, he blindfolded her.</p>
+            <p>
+               <hi>Chriſtopher Moor</hi> was tryed for breaking open the Houſe of <hi>William Reeves,</hi> in the Pariſh of St. <hi>Clement Danes,</hi> and ſtealing thence divers Suits of Cloaths, to the value of 20 pounds; which fact, he confeſt before the Juſtice, upon his commitment, and not upon his Tryal being able to deny it, by reaſon he had one of the Suits upon his back, the Jury found him guilty of the Felony and Robbery.</p>
+            <p>
+               <hi>Peter Crown</hi> was tryed for Killing <hi>John Hilton</hi> upon <hi>Tower-Hill,</hi> on the tenth of <hi>September</hi> laſt; the which upon Evidence appeared thus, <hi>viz.</hi> the Priſoner and the Deceaſed being together, the former upbraided the latter with his ſitting the Wooden-Horſe; whereupon the Deceaſed calling him Coward, and demanded Satisfaction; and had Anſwer returned him, That on the Morrow following, he ſhould have ſatisfaction fitting to be received from a Gentleman; but other words ariſing, they went out preſently and fought, when after divers Paſſes, <hi>Hilton</hi> was run through the body; but no premeditated Malice appearing, the Priſoner was Acquitted of the Mur<g ref="char:EOLhyphen"/>ther, and found Guilty of the Man-ſlaughter only.</p>
+            <p>
+               <hi>Bernard Diſon</hi> was tryed for High-Treaſon, for clipping divers Half-Crowns, Shillings and Six pences, of the Lawful Coin of this Realm; the Evidence againſt him was, That he living with an <hi>Oyl-Man</hi> in <hi>Watling-ſtreet,</hi> had been obſerved to have Shears, and other Inſtruments not perti<g ref="char:EOLhyphen"/>nent to his buſineſs; but above all, the Maid of the houſe ſearching for old Rags, under the Stairs in the Cellar, found a bag with Clippings in it, and there<g ref="char:EOLhyphen"/>with acquainted her other fellow-Servant, who told his Maſter, and upon ſearch, other Clippings were found about the Houſe, at which the Priſoner ſeemed greatly concerned, which gave them occaſion to ſuſpect him; but he upon his Tryal denying the Fact, and there being no poſitive proof of his Clipping, he was acquitted.</p>
+            <p>
+               <hi>James Ogle</hi> was tryed for ſtealing Mony to the ſum of five pounds, from one Mr. <hi>Hauks,</hi> from out the Cabin of his Ship lying in <hi>Billings-gate Dock,</hi> the Proof being, That the Priſoner was ſeen to put a Bag in his Pocket, as he came out of the <hi>Cabin,</hi> and that the Bag the Mony was in, was a while after found in the Hold of the Ship; but it not being proved, that the Priſoner ſtole the Mony, and he alledging, that the Bag <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had was not the Bag afterwards found, he was by the Jury acquitted of the Felony.</p>
+            <p>
+               <hi>Henry Atkinſon, John Fitz-James,</hi> and <hi>John Ruth,</hi> were tryed for Killing <hi>Nicholas Welſh</hi> on the eighth of <hi>September</hi> laſt, in the Pariſh of St. <hi>Clement Danes;</hi> the Circumſtances that appeared upon Evidence being theſe; Mr. <hi>Atkinſon</hi> and Mr. <hi>Welſh</hi> the day before the fact committed, coming over the Water, had ſome Words at landing; but upon the former's promiſing to beg the latter's Pardon, at that time nothing further was attempted; but the next day towards the Evening, Mr. <hi>Atkins,</hi> Mr. <hi>Fitz James,</hi> and Mr. <hi>Ruth</hi> came to a Tavern where Mr. <hi>Welſh</hi> was drinking, and according to promiſe Mr. <hi>Atkins</hi> begged his Pardon; but Mr. <hi>Welſh</hi> afterwards being about to depart, one of the Priſoners called him into the Room where they were drinking, to enter which he ſeemed ſhy, but upon promiſe, that all Animoſities that might create a quarrel were laid aſide, he conſented; but after drinking divers
+<pb facs="tcp:50984:5"/>Glaſſes, and he refuſing to drink Mr. <hi>Atkinſon</hi>'s health, Mr. <hi>Ruth</hi> began to pick a quarrel, by telling him, he had ſpoke ill of him, in giving out at ſuch a time he was Drunk, which occaſioned Words to ariſe, in<g ref="char:EOLhyphen"/>ſo much, that Glaſſes were thrown at each other; and in the end their Swords drawn, in which action, Mr. <hi>Ruth</hi> run Mr. <hi>Welſh</hi> into the Body, of which Wound he died; but a ſeeming friendſhip appearing a little before, and Mr. <hi>Atkins</hi> and Mr. <hi>Fitz-James,</hi> who were Indicted as Principals, not being actually con<g ref="char:EOLhyphen"/>cerned in the Quarrel, they were acquitted; but Mr. <hi>Ruth</hi> found Guilty of Man-ſlaughter.</p>
+            <p>
+               <hi>Thomas Hern,</hi> and <hi>Jacob Horton,</hi> were tryed for killing <hi>Thomas Harding</hi> a Drawer at the <hi>Crown</hi> Tavern in <hi>Fenchurch-ſtreet,</hi> the manner thus, as it appeared in Court: The Deceaſed and the firſt Priſoner being Drawers in the aforeſaid Tavern, they quarrell'd about a Three-pence given to the Priſoner by a Com<g ref="char:EOLhyphen"/>pany that drank in the Houſe; whereupon, after ſome words, they went to fighting, during which En<g ref="char:EOLhyphen"/>counter, <hi>Harding</hi> was much bruiſed, and from the <hi>22d.</hi> of <hi>September,</hi> languiſhing till the <hi>24th.</hi> of the ſaid Inſtant, died: But no premeditated Malice appearing, and the perſon who fought with him being but a Youth, he was acquitted; as likewiſe was <hi>Jacob Horton,</hi> upon the Coroner's Inquiſition.</p>
+            <p>
+               <hi>Elizabeth Green,</hi> and <hi>William Standback,</hi> were Indicted for ſtealing two Silver Tankards, two Cups, four Spoons, <hi>&amp;c.</hi> from <hi>John Davenport</hi> in <hi>Weſt-Smithfield,</hi> on the <hi>12th.</hi> of <hi>September</hi> laſt, which Plate, upon putting out Bills, was diſcovered; but the former Priſoner owning the Felony, and acquitting the latter, ſhe only was found guilty.</p>
+            <p>
+               <hi>Samuel Matthews</hi> was tryed for ſtealing a Silver Tankard, Value five pound, in <hi>Fetter-lane,</hi> on the <hi>28th.</hi> of <hi>September</hi> laſt: Againſt him it was proved, that he came into the Houſe, pretending that a Neighbour was coming to him, and going up Stairs, no ſooner had a Tankard brought him, and left alone, but he, by a Cord, ſlipped out at the Window, within ſome days after being apprehended and committed, he by Letter acknowledged the Felony, and was found guilty.</p>
+            <p>
+               <hi>Robert Delivere</hi> was tryed, and found guilty, for ſtealing ſeventeen Shillings from <hi>Thomas Agriman.</hi>
+            </p>
+            <p>
+               <hi>John Griffith, Daniel Reynold, James Warner,</hi> and Mr. <hi>Bamfield,</hi> four Diſſenting Miniſters, were brought to the <hi>Bar,</hi> and demanded, Whether they would take the Oath of Allegiance? But they refuſing, their Refuſals were Recorded, and an Indictment upon the Statute of <hi>Praemunire</hi> found againſt them by the Grand Jury of <hi>London;</hi> but it being late, and the Petty Jury by the Court diſcharged, their Tryals were deferred to the next Seſſions.</p>
+            <p>
+               <hi>James Rothwell,</hi> a Roman Catholick, had the Oath of Allegiance tendered him, which he offered to take, but when he came to the words mentioned therein, Aſſerting the King's Rightful Title to theſe Realms, and other His Majeſties Dominions, and that the Pope had no Power or Juriſdiction therein, he bogled, and would proceed no further, whereupon he was Re-manded to Priſon.</p>
+            <p>
+               <hi>James Gibbons</hi> having been taken about <hi>Yorkshire</hi> for <hi>Rumbold,</hi> was likewiſe brought to the Bar, and had the Oath tender'd him; which, after ſome difficulty, he took, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Mary Phelps</hi> was tryed for the Murther of <hi>John Carleton,</hi> which, upon Tryal appeared thus: The Priſoner being, as ſhe pretended, affronted by a Coachman, who ſaid ſhe kept Bullies in her Houſe, ſhe went home, and fetched one <hi>John Bolger,</hi> a Lodger of hers, to vindicate her; but ere he came, the Coachman being gone, and ſome words paſſing between her and the Deceaſed, who was a Porter, the ſaid <hi>Bolger</hi> run him into the Belly, of which wound he inſtantly died; the ſaid <hi>Bolger</hi> thereupon being committed to the <hi>Gatehouſe,</hi> broke Priſon, and made his Eſcape: But it appearing that the Priſoner was aiding, abetting, comforting, and maintaining the ſaid <hi>Bolger,</hi> ſhe was found guilty of the Murther.</p>
+            <p>
+               <hi>William Clark</hi> was tryed for ſpeaking Seditious Words, viz. <hi>That there was no Presbyterian Plot, but a Church of England Plot,</hi> &amp;c. The which being proved againſt him by two Wit<g ref="char:EOLhyphen"/>neſſes, he was found guilty of the Treſpaſs and Miſdemeanour.</p>
+            <p>
+               <hi>Ann Walker</hi> was tryed as Acceſſary to the Murther of <hi>Jeremiah Buller,</hi> ſuppoſed to be done by one <hi>Owen Vaughan;</hi> but there being no poſitive Proof that ſhe was there at the time of the Murther Com<g ref="char:EOLhyphen"/>mitted, ſhe was acquitted.</p>
+            <p>
+               <hi>John Quarles</hi> and <hi>Francis Temple</hi> were tryed for robbing the Houſe of <hi>Elenor Price</hi> in <hi>Holbourn,</hi> into which they came to drink, and breaking open a Chamber door, took thence to the Value in Money, Rings, and other things, 120 <hi>l.</hi> as alſo two Bonds; which Robbery <hi>Temple</hi> confeſſed, and the Proof being plain againſt <hi>Quarlse,</hi> they were both convicted.</p>
+            <p>
+               <hi>Charles Batler</hi> was tryed upon an Indictment of High-Treaſon, for Clipping, Filing, and Diminiſhing Half-Crowns, Shillings, and Sixpences, the proper and lawful Coin of this Realm; upon which Tryal it appeared, that divers Clippings, Silver-Duſt, Shears, Melting Pots, Running Pots, Files, and the like, were found in his Houſe, in <hi>Lincolns-Inn-Fields;</hi> as alſo at an other Houſe of his in <hi>Fulham,</hi> Silver Fil<g ref="char:EOLhyphen"/>ings, <hi>&amp;c.</hi> were found, and about him 4 pound odd money newly clipped, ſo that in concluſion, he was found guilty of the High-Treaſon.</p>
+            <p>
+               <hi>Francis Egleſton</hi> was tryed for robbing <hi>Richard Jaxon,</hi> in <hi>Spittle-fields,</hi> in the High-way, of a Hat, Cra<g ref="char:EOLhyphen"/>vat, and other things, which being proved, he was found guilty.</p>
+            <p>This Seſſions Eighteen perſons received Sentence of Death, <hi>viz. Edward Williams, Charles Dod, Sidny Vandelo, Hugh Jones, Charles Roberts, John Smith, Jonathan Parſons, William Williams, Chriſtopher Moor, John Knight, John Paybody, Thomas Edmonds, Elizabeth Green, Mary Phelps, Charles Temple, John Quarles, Charles Butler,</hi> and <hi>Elizabeth Haer;</hi> the laſt two for High-Treaſon, for Clipping the Lawful Coin of this Kingdom. <hi>Frances Egleſtone</hi> was reprieved before Judgment.</p>
+            <p>There were burnt in the hand, <hi>John Thomſon, Thomas Atkins, Peter Crown, John Green,</hi> and two others; <hi>John Piſer</hi> being reprieved before Burning.</p>
+            <p>Ordered to be Tranſported, <hi>R. Valour, Samuel Matthews, William Smith,</hi> and <hi>Humphry Hygins.</hi>
+            </p>
+            <p>Six were Sentenced to be Whipt, <hi>viz. Thomas Wade, Robert Delevere, John Peech, Elizabeth Berry, Fran<g ref="char:EOLhyphen"/>cis Taylor,</hi> and <hi>Elizabeth Vincent.</hi>
+            </p>
+            <p>
+               <hi>James Rothwell</hi> having refuſed to take the Oath of Allegiance, and thereunto pleaded Guilty, was awarded Impriſonment during his Majeſties Pleaſure, and to have his Goods, Chattels, <hi>&amp;c.</hi> ſeized to the uſe of the King.</p>
+            <p>
+               <hi>William Clark</hi> for ſpeaking Seditious Words againſt the Government, was fined a hundred Marks, ſen<g ref="char:EOLhyphen"/>tenced to ſtand in the Pillory in <hi>Clare-Market,</hi> and to find Sureties for his good Behaviour.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>Langley Curtis,</hi> near <hi>Fleet-bridge.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
